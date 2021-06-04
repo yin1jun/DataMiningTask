@@ -2,22 +2,22 @@
 
 ## 项目描述
 
-本项目是BIT数据挖掘课程的互评作业，选取老师提供的其中2个数据集，利用课上所学知识及课下练习，对所选数据集实现初步挖掘，完成数据探索性分析与预处理。
+本项目是BIT数据挖掘课程的互评作业，选取老师提供的数据集，利用课上所学知识及课下练习，对所选数据集进行挖掘。
 
-### 互评作业
-
-#### 子模块描述
+### 子模块描述
 
 * OaklandCrime.ipynb -- 互评作业1中分析数据集Oakland Crime Statistics
 * WineReviewAnalysis.ipynb -- 互评作业1中分析数据集Wine Reviews
 
-##### homework2
+#### homework2
 
 * WineApriori.ipynb -- 互评作业2中对数据集Wine Reviews进行关联规则挖掘
 
-##### homework3
+#### homework3
 
 * HotelPrediction.ipynb -- 互评作业3中对数据集Hotel Booking Demand进行分析与预测
+
+### 互评作业
 
 #### 互评作业1——完成内容
 
