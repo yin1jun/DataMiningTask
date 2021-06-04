@@ -1,6 +1,6 @@
 # 数据挖掘互评作业三：分类、预测与聚类
 
-选择的数据集是[Hotel booking demand—酒店预订需求](https://www.kaggle.com/jessemostipak/hotel-booking-demand)
+选择的数据集是[Hotel booking demand—酒店预订需求](https://www.kaggle.com/jessemostipak/hotel-booking-demand)，对其进行预测
 
 该数据集包含城市酒店和度假酒店的预订信息，包括：酒店预订时间、停留时间，成人/儿童/婴儿人数以及可用停车位数量等信息。
 
